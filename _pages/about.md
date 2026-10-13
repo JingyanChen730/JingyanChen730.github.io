@@ -69,7 +69,7 @@ This work predicts a metal-decoration-free Li<sub>3</sub>C<sub>2</sub> monolayer
 </div>
 </div>
 
-- Meiling Xu, Zitong Wu, **Jingyan Chen**, Zhuohang Xie, Yan Liu, Shicong Ding, Yinwei Li, Guoan Tai, Yanchao Wang. [Synthesis and Anisotropic Memristive Behavior of Borophene Nanosheets](https://doi.org/10.1002/anie.202416041). *Angewandte Chemie International Edition*, 2025. [PDF](/jychen-homepage-new/files/borophene.pdf)
+- Meiling Xu, Zitong Wu, **Jingyan Chen**, Zhuohang Xie, Yan Liu, Shicong Ding, Yinwei Li, Guoan Tai, Yanchao Wang. [Semiconducting Borophene Realized via Hydrogenation-Driven Structural Reconstruction](https://doi.org/10.1002/anie.202516206). *Angewandte Chemie International Edition*, 2026, **65**, e16206. [PDF](/jychen-homepage-new/files/borophene.pdf)
 
 - Shuyi Lin, **Jingyan Chen**, Bi Zhang, Jian Hao, Meiling Xu, Yinwei Li. [Lanthanium nitride LaN<sub>9</sub> featuring azide units: the first metal nine-nitride as a high-energy-density material](https://doi.org/10.1039/D3CP06155H). *Physical Chemistry Chemical Physics*, 2024. [PDF](/jychen-homepage-new/files/LaN.pdf)
 
